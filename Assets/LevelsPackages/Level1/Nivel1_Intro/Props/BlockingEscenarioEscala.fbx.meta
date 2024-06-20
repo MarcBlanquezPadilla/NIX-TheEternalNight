@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 84c8cda3819924c4fbd541467bd52a56
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: 8832322582725162054
+    second: Soporte puente lateral.001|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 822397456325292830
+    second: Soporte puente lateral.001|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -4264881630871000270
+    second: Soporte puente lateral.001|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: 8658297108390829724
+    second: Soporte puente lateral.001|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -5606388135374333319
+    second: Soporte puente lateral.001|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 857224845554983663
+    second: Soporte puente lateral.001|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 8352238678358276778
+    second: Soporte puente lateral.001|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -1652449449130076283
+    second: Soporte puente lateral.001|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -6277784390877996790
+    second: Soporte puente lateral.002|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 1542918830541561174
+    second: Soporte puente lateral.002|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -7108831213370021812
+    second: Soporte puente lateral.002|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -578310591725576232
+    second: Soporte puente lateral.002|CentroSala|Take 001|BaseLayer
+  - first:
+      74: 6261891527716402278
+    second: Soporte puente lateral.002|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 7433481899761715709
+    second: Soporte puente lateral.002|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 291786092104055215
+    second: Soporte puente lateral.002|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -8509206158295827867
+    second: Soporte puente lateral.002|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 2447929709876121718
+    second: Soporte puente lateral.003|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 3004320654361799088
+    second: Soporte puente lateral.003|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -4803377147770738900
+    second: Soporte puente lateral.003|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -3029044033635206894
+    second: Soporte puente lateral.003|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -3771646487377147177
+    second: Soporte puente lateral.003|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 221850789788188039
+    second: Soporte puente lateral.003|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -1857165502474113187
+    second: Soporte puente lateral.003|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 7849294339856085491
+    second: Soporte puente lateral.003|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -3959821103081379916
+    second: BasePasilloClean029|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -8611337736557453710
+    second: BasePasilloClean029|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 365216942916163725
+    second: BasePasilloClean029|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -3383933307996445360
+    second: BasePasilloClean029|CentroSala|Take 001|BaseLayer
+  - first:
+      74: 483969363474501662
+    second: BasePasilloClean029|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: -8542835769179556475
+    second: BasePasilloClean029|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -117195925859223948
+    second: BasePasilloClean029|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -387699669845844798
+    second: BasePasilloClean029|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 4649302948027835265
+    second: BasePasilloClean|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 5562641018402124627
+    second: BasePasilloClean|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 5109273104805685413
+    second: BasePasilloClean|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: 3917268939939893838
+    second: BasePasilloClean|CentroSala|Take 001|BaseLayer
+  - first:
+      74: 1337396650034784953
+    second: BasePasilloClean|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 6690008068684224911
+    second: BasePasilloClean|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 3886246115984875127
+    second: BasePasilloClean|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -6606625498884356655
+    second: BasePasilloClean|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 4390271685450923899
+    second: BasePasilloClean.001|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 6916227325813733186
+    second: BasePasilloClean.001|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 4927685963892248492
+    second: BasePasilloClean.001|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -6971844687930105290
+    second: BasePasilloClean.001|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -8171835680564771121
+    second: BasePasilloClean.001|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: -6306866103212834566
+    second: BasePasilloClean.001|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -1565774243487053117
+    second: BasePasilloClean.001|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -5886347031210689519
+    second: BasePasilloClean.001|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -3006343007048387081
+    second: BasePasilloX|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 2260146231474461606
+    second: BasePasilloX|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 5407363719073305912
+    second: BasePasilloX|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -9004260259085631646
+    second: BasePasilloX|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -8008409499708436141
+    second: BasePasilloX|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 8150480331498600147
+    second: BasePasilloX|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 7959813710227868911
+    second: BasePasilloX|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 2546983457618341398
+    second: BasePasilloX|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 1031984971619510488
+    second: BasePasilloClean.002|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -4091768745085547773
+    second: BasePasilloClean.002|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 7129667318965122426
+    second: BasePasilloClean.002|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: 1304597910023466391
+    second: BasePasilloClean.002|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -9038382392233960983
+    second: BasePasilloClean.002|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 4295156008292729072
+    second: BasePasilloClean.002|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -3293505135304365711
+    second: BasePasilloClean.002|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 8451006201479632122
+    second: BasePasilloClean.002|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 4430526463332371996
+    second: BasePasilloClean029.001|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 5731483080083766220
+    second: BasePasilloClean029.001|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -3722962360578012318
+    second: BasePasilloClean029.001|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -9203839377611745044
+    second: BasePasilloClean029.001|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -2969445815942215399
+    second: BasePasilloClean029.001|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: -1944443634602354122
+    second: BasePasilloClean029.001|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 1330321865310818525
+    second: BasePasilloClean029.001|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 1220057076023015366
+    second: BasePasilloClean029.001|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -5259907421079490058
+    second: BasePasilloClean.003|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 7317305986346172342
+    second: BasePasilloClean.003|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -2982959422757309265
+    second: BasePasilloClean.003|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -9114089805684856533
+    second: BasePasilloClean.003|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -7981704412057277715
+    second: BasePasilloClean.003|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 4650997401221560837
+    second: BasePasilloClean.003|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 7777154725316022705
+    second: BasePasilloClean.003|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 4063127814854207621
+    second: BasePasilloClean.003|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -3352225867939924913
+    second: PasilloEsquina_05|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -3717662178285126897
+    second: PasilloEsquina_05|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -601190645568147620
+    second: PasilloEsquina_05|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -3635462437698463836
+    second: PasilloEsquina_05|CentroSala|Take 001|BaseLayer
+  - first:
+      74: 1114408137721949867
+    second: PasilloEsquina_05|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 4670894990216593908
+    second: PasilloEsquina_05|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: 6451536653763604062
+    second: PasilloEsquina_05|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 8183617093577938215
+    second: PasilloEsquina_05|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 7427049712762528957
+    second: PasarelaInicio002.001|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -2584601007165790360
+    second: PasarelaInicio002.001|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -3305841362590712095
+    second: PasarelaInicio002.001|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: 6499273106716124345
+    second: PasarelaInicio002.001|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -1263537896542502100
+    second: PasarelaInicio002.001|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 1605828191896729209
+    second: PasarelaInicio002.001|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -5416811236687152725
+    second: PasarelaInicio002.001|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -4106239029897981658
+    second: PasarelaInicio002.001|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 948661621777264265
+    second: PasarelaInicio002.002|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 8194036403803569589
+    second: PasarelaInicio002.002|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 3201469853109407455
+    second: PasarelaInicio002.002|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -9056987791772585064
+    second: PasarelaInicio002.002|CentroSala|Take 001|BaseLayer
+  - first:
+      74: 6126234059705245606
+    second: PasarelaInicio002.002|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: -8178155635058650149
+    second: PasarelaInicio002.002|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -7283083200049254969
+    second: PasarelaInicio002.002|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 6634560078663523542
+    second: PasarelaInicio002.002|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -947165869631902728
+    second: PasarelaInicio002.003|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -3287319719943143024
+    second: PasarelaInicio002.003|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -6006785849172809709
+    second: PasarelaInicio002.003|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: 5770692777495025382
+    second: PasarelaInicio002.003|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -7669687660070042769
+    second: PasarelaInicio002.003|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 3170352275717903028
+    second: PasarelaInicio002.003|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -531472163555706019
+    second: PasarelaInicio002.003|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 413230023172399995
+    second: PasarelaInicio002.003|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 7998020387633225225
+    second: PasarelaInicio002.004|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -7227196833695902353
+    second: PasarelaInicio002.004|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 1084093061486224426
+    second: PasarelaInicio002.004|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: 4091087756638671933
+    second: PasarelaInicio002.004|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -125119143325119626
+    second: PasarelaInicio002.004|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 1324927973460567661
+    second: PasarelaInicio002.004|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -3682953097906783734
+    second: PasarelaInicio002.004|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -6034983163807560970
+    second: PasarelaInicio002.004|SalaPared|Take 001|BaseLayer
+  - first:
+      74: 1410523255467561128
+    second: PasarelaInicio002.005|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: -8786198040900351210
+    second: PasarelaInicio002.005|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: 2694090843555506306
+    second: PasarelaInicio002.005|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -3147048764477946302
+    second: PasarelaInicio002.005|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -5189813605194105201
+    second: PasarelaInicio002.005|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: -4952211770164177632
+    second: PasarelaInicio002.005|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -5421104197402137299
+    second: PasarelaInicio002.005|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: 6926226148350316957
+    second: PasarelaInicio002.005|SalaPared|Take 001|BaseLayer
+  - first:
+      74: -3108410942953518763
+    second: PasarelaInicio002.006|BasePasilloClean029|Take 001|BaseLayer
+  - first:
+      74: 759063322396511353
+    second: PasarelaInicio002.006|BasePasilloClean|Take 001|BaseLayer
+  - first:
+      74: -2631649184538262756
+    second: PasarelaInicio002.006|BasePasilloX|Take 001|BaseLayer
+  - first:
+      74: -667921724553053869
+    second: PasarelaInicio002.006|CentroSala|Take 001|BaseLayer
+  - first:
+      74: -638718629960005603
+    second: PasarelaInicio002.006|EsquinaSala|Take 001|BaseLayer
+  - first:
+      74: 703820078048767140
+    second: PasarelaInicio002.006|PasarelaInicio002|Take 001|BaseLayer
+  - first:
+      74: -7511953719481691440
+    second: PasarelaInicio002.006|PasilloEsquina_05|Take 001|BaseLayer
+  - first:
+      74: -2298831191383990846
+    second: PasarelaInicio002.006|SalaPared|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

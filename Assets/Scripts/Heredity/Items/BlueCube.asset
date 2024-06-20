@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a2193b9880214949a6a17683aec4b52, type: 3}
+  m_Name: BlueCube
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: BlueCube
+  stringKey: Cubo azul
+  descriptionKey: Se utiliza para desbloquear la puerta central.
+  stackeable: 0
+  itemType: 4
+  typeIcon: {fileID: 21300000, guid: e6e1f42fc6c078c458400f24da10747b, type: 3}
+  itemObj: {fileID: 2877689449542503806, guid: aa9b271cceafbf84b82185c1908d6301, type: 3}

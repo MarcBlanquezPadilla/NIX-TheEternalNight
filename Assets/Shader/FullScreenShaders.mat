@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FullScreenShaders
+  m_Shader: {fileID: 4800000, guid: 9fe746bcd7442ac47beacf751c8d2e0d, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Vinyeta:
+        m_Texture: {fileID: 2800000, guid: 553e18906b626bf4eaf508dd76cf40f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Amplitud: 0.05
+    - _BlurAmount: 10
+    - _BlurDistance: 1
+    - _BlurSize: 10
+    - _FadeValue: 0
+    - _Frecuencia: 155
+    - _LifePercent: 0.5
+    - _LifePercentToStart: 0.5
+    - _MagnitudVinyeta: 0.2
+    - _MaxSeparation: 1
+    - _MinSeparation: 0
+    - _PorcentajeDeVida: 0
+    - _PorcentajeParaActivar: 0.5
+    - _Separation: 0
+    - _Time: -26.4
+    - _Timee: 2880.1
+    - _TipoDaltonismo: -1
+    m_Colors:
+    - _ColorVinyeta: {r: 1, g: 0, b: 0.15378952, a: 1}
+    - _FadeColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

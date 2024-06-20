@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 987e4b0acc92be24aa418ee357aa38a5
+ModelImporter:
+  serializedVersion: 22103
+  internalIDToNameTable:
+  - first:
+      74: 9128885920207887336
+    second: Armature|Armature.002Action
+  - first:
+      74: 5001648730597902161
+    second: Armature|BasePasilloClean001|Take 001|BaseLayer
+  - first:
+      74: -5293853546894525528
+    second: Armature|BasePasilloX001|Take 001|BaseLayer
+  - first:
+      74: 249061393844541562
+    second: Armature|Box001|Take 001|BaseLayer
+  - first:
+      74: 4743084820616853705
+    second: Armature|CameraAction
+  - first:
+      74: -5311974846220177265
+    second: Armature|cntrl_jeringa|Take 001|BaseLayer
+  - first:
+      74: 5351120463950579904
+    second: Armature|Ctrl.General|Take 001|BaseLayer
+  - first:
+      74: -3392210303681599575
+    second: Armature|ctrl_gatillo|Take 001|BaseLayer
+  - first:
+      74: -3754684042789963001
+    second: Armature|ctrl_pistola|Take 001|BaseLayer
+  - first:
+      74: 4251194819479717725
+    second: Armature|Escena1
+  - first:
+      74: -1757113222251110721
+    second: Armature|Escena1.001
+  - first:
+      74: -2382789232490305371
+    second: Armature|gatillo|Take 001|BaseLayer
+  - first:
+      74: 2852225025277055685
+    second: Armature|Jeringalow|Take 001|BaseLayer
+  - first:
+      74: 6145010600035398326
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|BasePasilloClean029
+  - first:
+      74: 4565453351893396868
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|BasePasilloClean|Ta
+  - first:
+      74: 4445535059663096509
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|BasePasilloX|Take
+      0
+  - first:
+      74: 3867813783238523644
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|CentroSala|Take
+      001
+  - first:
+      74: -6248761812316287124
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|EsquinaSala|Take
+      00
+  - first:
+      74: -1557996250695399420
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|PasarelaInicio002|T
+  - first:
+      74: -8628764185535891150
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|PasilloEsquina_05|T
+  - first:
+      74: 4108463140426492891
+    second: Armature|PasarelaInicio002.001|PasarelaInicio002.001|SalaPared|Take 001|
+  - first:
+      74: -4887789005709416278
+    second: Armature|PasilloEsquina_02|Take 001|BaseLayer
+  - first:
+      74: 4313305423100170759
+    second: Armature|PistolaNina|Take 001|BaseLayer
+  - first:
+      74: 4138079062523708454
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP
+  - first:
+      74: -6037922477026606850
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP.001
+  - first:
+      74: -6575158799389821102
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP.002
+  - first:
+      74: 8036926798485461749
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP.003
+  - first:
+      74: 4170971043789193379
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP.004
+  - first:
+      74: -8629731853031149812
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP.005
+  - first:
+      74: 7441380112131379306
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BaseP.006
+  - first:
+      74: -1222310822862275736
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|BasePasil
+  - first:
+      74: -4744932034346690052
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|CentroSal
+  - first:
+      74: 8275604632969367847
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|EsquinaSa
+  - first:
+      74: -2118211178533915467
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|PasarelaI
+  - first:
+      74: 946784802675309570
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|PasilloEs
+  - first:
+      74: -2058200495489147184
+    second: Armature|Soporte puente lateral.001|Soporte puente lateral.001|SalaPared
+  - first:
+      74: -4596231978120691829
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|BaseP
+  - first:
+      74: -2365697377435447377
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|BaseP.001
+  - first:
+      74: 9019772565855590428
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|BasePasil
+  - first:
+      74: -5168675434538530044
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|CentroSal
+  - first:
+      74: 2084229134022228556
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|EsquinaSa
+  - first:
+      74: -2353591343200661963
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|PasarelaI
+  - first:
+      74: -6214182873367569859
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|PasilloEs
+  - first:
+      74: -2038534485488256280
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|SalaPared
+  - first:
+      74: -4946249627306212370
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor
+  - first:
+      74: -8604130529633258815
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor.001
+  - first:
+      74: 1725623626099770441
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor.002
+  - first:
+      74: 555018745107677409
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor.003
+  - first:
+      74: -3417440257730328791
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor.004
+  - first:
+      74: -7894281025655081272
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor.005
+  - first:
+      74: 1356039409793156816
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Sopor.006
+  - first:
+      74: 5346872473283314033
+    second: Armature|Soporte puente lateral.004|Soporte puente lateral.004|Soporte
+      p
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Escena1
+      takeName: Armature|Escena1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
